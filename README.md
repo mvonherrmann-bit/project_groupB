@@ -1,6 +1,7 @@
 # project_groupB
 
 Stories: 
+	 
 	 1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). 2 Days
          
 	 2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment? 3 Days
