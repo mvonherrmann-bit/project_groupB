@@ -16,7 +16,7 @@ Stories:
          
 	 7. I want to be able to access my account and save my searches and preferences. 10 Days
          
-	 8. I would like to see a login page. 6 Days
+	 8. I would like to see a login page. 3 Days
          
 	 9. I would like to see a map of restaurants within Orange County. 7 Days
          
