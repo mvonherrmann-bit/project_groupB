@@ -34,4 +34,4 @@ Concept: A website that allows you to look for restaurants currently open during
 Stakeholders: Residents of Orange County- people looking for dining options within Orange County based on certain criteria (see above in Story).
 
 
-Team members: Miles Von Herrmann, Dominic Lee, C. Vanessa Reyes, and Tony Sokthai
+Team members: Miles Von Herrmann, Dominic Lee, C. Vanessa Reyes, and Tony Sookthai
