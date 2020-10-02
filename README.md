@@ -60,6 +60,8 @@ Stories:
 	 Be able to view and interact with map that has partial functionality 
 	 8 days -- 16 hours total 
 	
+	 Burn down chart:
+	 see file in git repository 
 
 
 Timeline: Creating map of restaurants in given area(s)
@@ -79,3 +81,4 @@ Stakeholders: Residents of Orange County- people looking for dining options with
 
 
 Team members: Miles Von Herrmann, Dominic Lee, C. Vanessa Reyes, and Tony Sookthai
+
