@@ -31,11 +31,12 @@ Stories:
 	 a) Pull information about seating/seating capacity percentage from restaurants' twitter pages 
 	 b) Allow for user to query just seating information when looking up a specific restaurant 
          
-	 6. I want to be able to access my account and save my searches and preferences. 10 Days
+	 6. I would like to have the option to see restaurants that match my given criteria within a list. 2 Days
 	 Tasks:
-	 a)Create user profile page -- which shows user's preferences and searches
-	 b)Create a user account list, data storage location which allows diners to find people they know
+	 a)Create a separate results box within the program -- show restaurants that match criteria user has given
+	 b)Sort results by which criteria item the user entered in first 
          
+	 -----Milestone 1.0----------
 	 7. I would like to see a login page. 3 Days
 	 Tasks:
 	 a)Create landing page with GUI interface using Flask
@@ -46,10 +47,19 @@ Stories:
 	 a)Embed arcgis web-map of Orange County, display all restaurants as pins on map
 	 b)Create boundary for Orange county using arcpy code, drawing polygon on top of map
          
-	 9. I would like to have the option to see restaurants that match my given criteria within a list. 2 Days
+	 9.  I want to be able to access my account and save my searches and preferences. 10 Days
 	 Tasks:
-	 a)Create a separate results box within the program -- show restaurants that match criteria user has given
-	 b)Sort results by which criteria item the user entered in first 
+	 a)Create user profile page -- which shows user's preferences and searches
+	 b)Create a user account list, data storage location which allows diners to find people they know
+         
+	 Iteration #1:
+	 Be able to log into program, enter in username and password 
+	 5 days -- 10 hours total
+	 
+	 Iteration #2:
+	 Be able to view and interact with map that has partial functionality 
+	 8 days -- 16 hours total 
+	
 
 
 Timeline: Creating map of restaurants in given area(s)
@@ -61,6 +71,11 @@ Concept: A website that allows you to look for restaurants currently open during
 
 
 Stakeholders: Residents of Orange County- people looking for dining options within Orange County based on certain criteria (see above in Story).
+	      Restaurant owners
+	      Restaurant workers
+	      Travelers to Orange County
+	      People looking for employment
+	      County + State health officials 
 
 
 Team members: Miles Von Herrmann, Dominic Lee, C. Vanessa Reyes, and Tony Sookthai
