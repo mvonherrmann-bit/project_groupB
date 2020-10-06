@@ -1,6 +1,19 @@
 #Cuisine 'n COVID19
 #Restaurants map in Orange Countyin COVID19 situation
 
+How to run website:
+
+1) Save Cuisine.py to Desktop on computer
+2) Save Templates folder to Desktop
+3) Run the following on Terminal:
+	$ python3 Cuisine.py
+	$ export FLASK_APP=Cuisine
+	$ export FLASK_ENV=development
+	$ flask run
+4)Copy URL(http://127.0.0.1:5000/) and paste into web browser 
+
+
+
 Stories: 
 	 
 	 1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County. 10 Days
@@ -62,6 +75,7 @@ Stories:
 	
 	 Burn down chart:
 	 see file in git repository 
+
 
 
 Timeline: Creating map of restaurants in given area(s)
