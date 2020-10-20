@@ -171,7 +171,7 @@ We have calculated the velocity as below:
 We have created the burn down calculator to input the working hours for each developer.
 Please follow the link https://bit.ly/31q50o7
 (Only CGU member with this link can access, but only our team can edit)
-![](https://i.ibb.co/KDqyMKz/Burndownchart)
+![image](https://i.ibb.co/KDqyMKz/Burndownchart.png)
 
 ### Stand Up Meeting:
 Meeting #1
