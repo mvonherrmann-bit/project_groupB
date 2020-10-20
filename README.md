@@ -140,6 +140,7 @@ b) Create a user account list, data storage location which allows diners to find
 
 ### Iterations for Milestone:
 **Milestone #1**
+
 **Iteration #1:**
 Be able to log into program, enter in username and password 
 5 days -- 10 hours total
