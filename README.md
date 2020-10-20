@@ -1,9 +1,9 @@
 # IST-303-Team-B-Project
 ***
 ## Part A
+---
 
 ## Product: 
----
 Cuisine 'n COVID19
 Orange County Restaurant COVID19-compliant
 Restaurants map in Orange County in COVID19 situation
@@ -12,12 +12,10 @@ Restaurants map in Orange County in COVID19 situation
 
 
 ### Team member:
----
 Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
 
 
 ### Stakeholders:
----
 * Residents of Orange County- people looking for dining options within Orange County based on certain criteria (see above in Story).
 * Restaurant owners
 * Restaurant workers
@@ -26,7 +24,6 @@ Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
 * County + State health officials 
 
 ### Research:
----
 ![drawing] http://www.irvinechambereconomicdevelopment.com/media/userfiles/subsite_64/images/SafeDineOCShieldOC%26OCBC.png
 
 The County of Orange announced on August,6 2020 that the launch of a new SafeDineOC COVID-Safe Restaurant Campaign to incentivize Orange County restaurants to follow California Department of Public Health (CDPH) guidance to prevent the spread of COVID-19.
@@ -42,7 +39,6 @@ Restaurants that apply and are approved will be added to a list of COVID-safe ea
 Finally, the OCBC (Orange County Business Council) launched the list the forefront of safely serving Orange County at https://www.ocbc.org/safedineoc-grantrecipient/
 
 ### User Stories (estimate of completion times) and development priority:
----
 **As a user:**
  1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County. 10 Days
 Tasks:
@@ -100,12 +96,10 @@ Be able to view and interact with map that has partial functionality
 8 days -- 16 hours total 
  
 ### Tech Stack:
----
 To be advised
 
 
 ### Process:
----
 Timeline: 
 * Creating map of restaurants in given area(s)
 * Creating program to point to map given certain criteria
@@ -113,7 +107,6 @@ Timeline:
 
 
 ### Class Presentation Slides:
----
 To be advised
 
 ***
@@ -122,24 +115,20 @@ To be advised
 
 
 ### User Stories decomposition into tasks with team member allocated:
----
 To be advised
 
 
 ### Features in Milestone 1:
----
 * Log in page and landing page
 * Able to show a map of restaurants within Orange County
 * Able to access the user account and manage the user log
 
 
 ### Iterations for Milestone:
----
 To be advised
 
 
 ### Velocity
----
 We have calculated the velocity as below:
 * Sprint start date: 7-Oct
 * sprint end date: 8-Dec
@@ -153,7 +142,6 @@ We have calculated the velocity as below:
 * average daily productive hours: 6.4
 
 ### Burn Down Chart:
----
 We have created the burn down calculator to input the working hours for each developer.
 Please follow the link https://bit.ly/31q50o7
 (Only CGU member with this link can access, but only our team can edit)
@@ -163,18 +151,15 @@ Please follow the link https://bit.ly/31q50o7
 To be advised
 
 ### Functional and Test Code:
----
 To be advised
 
 ***
 
 
 ## How to run the application
----
 
 
 ### Environment to run application
----
 * Python 3.7
 * Pip
 *
@@ -183,7 +168,6 @@ To be advised
 
 
 ### Run Application Command
----
 How to run website:
 
 1) Save Cuisine.py to Desktop on computer
@@ -196,19 +180,14 @@ How to run website:
 4)Copy URL(http://127.0.0.1:5000/) and paste into web browser 
 
 ### Tests
----
 To be advised
 
 
 ### Coverage
----
 To be advised
 
 
-
-
 ### Install FAQ
----
 To be advised
 
 
