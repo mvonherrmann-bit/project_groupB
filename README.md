@@ -174,7 +174,16 @@ Please follow the link https://bit.ly/31q50o7
 ![](https://i.ibb.co/KDqyMKz/Burndownchart)
 
 ### Stand Up Meeting:
-To be advised
+Meeting #1
+
+Meeting #2
+
+Meeting #3
+
+Meeting #4  
+* Update the progress and 
+
+
 
 ### Functional and Test Code:
 To be advised
