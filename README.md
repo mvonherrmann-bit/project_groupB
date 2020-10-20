@@ -2,6 +2,8 @@
 ***
 ## Part A
 ---
+
+
 ## Product: 
 ---
 Cuisine 'n COVID19
@@ -10,9 +12,12 @@ Restaurants map in Orange County in COVID19 situation
 
 Concept: A website that allows you to look for restaurants currently open during the pandemic, what services are being provided, and how they are enforcing COVID regulations. We will filter out information from Twitter and Yelp posts and reviews to obtain information that is most relevant to our website's goal. We will create the necessary map using GIS, and create a program that points to a given location within that map using queries to extract information from Twitter using Twitter's API.
 
+
 ### Team member:
 ---
 Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
+
+
 ### Stakeholders:
 ---
 Residents of Orange County- people looking for dining options within Orange County based on certain criteria (see above in Story).
@@ -25,6 +30,8 @@ Residents of Orange County- people looking for dining options within Orange Coun
 ### Research:
 ---
 To be advised
+
+
 ### User Stories (estimate of completion times) and development priority:
 ---
 **As a user:**
@@ -86,12 +93,15 @@ To be advised
 ### Tech Stack:
 ---
 To be advised
+
+
 ### Process:
 ---
 Timeline: 
-Creating map of restaurants in given area(s)
-Creating program to point to map given certain criteria
-Testing programming, fixing bugs
+* Creating map of restaurants in given area(s)
+* Creating program to point to map given certain criteria
+* Testing programming, fixing bugs
+
 
 ### Class Presentation Slides:
 ---
@@ -103,19 +113,40 @@ To be advised
 ### User Stories decomposition into tasks with team member allocated:
 ---
 To be advised
+
+
 ### Features in Milestone 1:
 ---
-To be advised
+* Log in page and landing page
+* Able to show a map of restaurants within Orange County
+* Able to access the user account and manage the user log
+
+
 ### Iterations for Milestone:
 ---
 To be advised
+
+
 ### Velocity
 ---
-To be advised
+We have calculated the velocity as below:
+* Sprint start date: 7-Oct
+* sprint end date: 8-Dec
+* working days:	45
+* team size: 4
+* work hours per day: 2
+* total available hours: 360
+* average daily available hours: 8
+* average productivity:	80
+* productivity hours: 28
+* average daily productive hours: 6.4
 
 ### Burn Down Chart:
 ---
-To be advised
+We have created the burn down calculator to input the working hours for each developer.
+Please follow the link https://bit.ly/31q50o7
+(Only CGU member with this link can access, but only our team can edit)
+![alt text](https://i.ibb.co/KDqyMKz/Burndownchart.png)
 
 ### Stand Up Meeting:
 To be advised
