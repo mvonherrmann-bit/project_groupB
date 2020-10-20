@@ -1,8 +1,6 @@
 # IST-303-Team-B-Project
 ***
 ## Part A
----
-
 
 ## Product: 
 ---
