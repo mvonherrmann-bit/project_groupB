@@ -80,8 +80,8 @@ To be advised
 ### User Stories decomposition into tasks with team member allocated:
 
 1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.  
-*10 Days*. 
-**Tasks:** 
+*10 Days*  
+**Tasks:**  
 a) Extract location information and names of restaurants from Twitter API  
 b) Create queries for the different keywords(seating, take out, ...)  
 c) Create interface for user/diner to search for services based on keywords(search bar,sub pages)
