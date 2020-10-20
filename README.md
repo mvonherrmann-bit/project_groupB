@@ -24,7 +24,7 @@ Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
 * County + State health officials 
 
 ### Research:
-![[alt text]](http://www.irvinechambereconomicdevelopment.com/media/userfiles/subsite_64/images/SafeDineOCShieldOC%26OCBC.png)
+<img src="http://www.irvinechambereconomicdevelopment.com/media/userfiles/subsite_64/images/SafeDineOCShieldOC%26OCBC.png" width=300 align=left>
 
 The County of Orange announced on August,6 2020 that the launch of a new SafeDineOC COVID-Safe Restaurant Campaign to incentivize Orange County restaurants to follow California Department of Public Health (CDPH) guidance to prevent the spread of COVID-19.
 
@@ -70,10 +70,14 @@ Timeline:
 * Testing programming, fixing bugs
 
 
-### Class Presentation Slides:
-To be advised
+### Class Presentation Slides:  
+Project proposal  
+<img src="https://i.ibb.co/pbHcdV0/PPT1-Project-V2-002.png" width=500>  
+<img src="https://i.ibb.co/sFpJSpM/PPT1-Project-V2-003.png" width=500>  
+<img src="https://i.ibb.co/kmSmrz4/PPT1-Project-V2-004.png" width=500>  
 
-***
+***  
+
 ## Part B
 ---
 
