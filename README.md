@@ -42,6 +42,8 @@ Finally, the OCBC (Orange County Business Council) launched the list the forefro
 The Orange Health Care Agency has published the list of restaurants which has been joined the food inspection campaign. The list is contained upto 13,000 restaurants across the county.
 
 
+
+
 ### User Stories (estimate of completion times) and development priority:
 **As a user:**
  1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.
