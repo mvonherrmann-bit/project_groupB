@@ -24,7 +24,7 @@ Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
 * County + State health officials 
 
 ### Research:
-<img src="http://www.irvinechambereconomicdevelopment.com/media/userfiles/subsite_64/images/SafeDineOCShieldOC%26OCBC.png" width=300 align=left>
+<img src="http://www.irvinechambereconomicdevelopment.com/media/userfiles/subsite_64/images/SafeDineOCShieldOC%26OCBC.png" width=100 align=left>
 
 The County of Orange announced on August,6 2020 that the launch of a new SafeDineOC COVID-Safe Restaurant Campaign to incentivize Orange County restaurants to follow California Department of Public Health (CDPH) guidance to prevent the spread of COVID-19.
 
@@ -37,6 +37,10 @@ Restaurants that apply and are approved will be added to a list of COVID-safe ea
 “Maintaining consumer confidence in the restaurant industry is critical to helping businesses stay afloat during these challenging times,” said Supervisor Lisa Bartlett. “When customers visit a restaurant, they want to be confident that it is clean and in compliance with County health and safety guidelines,” said Bartlett. “The safety and protection of restaurant workers, and the customers they serve, is paramount to stopping the spread of COVID-19,” she said.
 
 Finally, the OCBC (Orange County Business Council) launched the list the forefront of safely serving Orange County at https://www.ocbc.org/safedineoc-grantrecipient/
+
+<img src="https://orangeeco.envisionconnect.com/clientimages/siteLogo.png" width=100 align=left>
+The Orange Health Care Agency has published the list of restaurants which has been joined the food inspection campaign. The list is contained upto 13,000 restaurants across the county.
+
 
 ### User Stories (estimate of completion times) and development priority:
 **As a user:**
