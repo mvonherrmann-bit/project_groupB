@@ -211,8 +211,8 @@ To be advised
 ### Run Application Command
 How to run website:
 
-1) Save Cuisine.py to Desktop on computer
-2) Save Templates folder to Desktop
+1) Save Project folder to Desktop on computer
+2) Navigate to Project folder within terminal 
 3) Run the following on Terminal:
 	$ python3 Cuisine.py
 	$ export FLASK_APP=Cuisine
