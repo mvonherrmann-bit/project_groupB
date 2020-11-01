@@ -62,7 +62,7 @@ The Orange Health Care Agency has published the list of restaurants which has be
          
 8. I would like to see a map of restaurants within Orange County.
          
-9.  I want to be able to access my account and save my searches and preferences.
+9. I want to be able to access my account and save my searches and preferences.
        
  
 ### Tech Stack:
@@ -161,23 +161,36 @@ Be able to view and interact with map that has partial functionality
 
 
 ### Velocity
+### * Milestone 1
+
+### *Option 1: Calculation base on number of hours
 We have calculated the velocity as below:
 * Sprint start date: 7-Oct
-* sprint end date: 8-Dec
-* working days:	45
+* sprint end date: 2-Nov
+* working days:	19
 * team size: 4
-* work hours per day: 2
-* total available hours: 360
-* average daily available hours: 8
+* work hours per day: 1
+* total available hours: 76
+* average daily available hours: 4
 * average productivity:	80
-* productivity hours: 28
-* average daily productive hours: 6.4
+* productivity hours: 60.8
+* average daily productive hours: 3.2
 
 ### Burn Down Chart:
 We have created the burn down calculator to input the working hours for each developer.
 Please follow the link https://bit.ly/31q50o7
 (Only CGU member with this link can access, but only our team can edit)
 ![image](https://i.ibb.co/KDqyMKz/Burndownchart.png)
+
+
+
+
+
+
+
+
+
+
 
 ### Stand Up Meeting:
 Meeting #1
