@@ -73,9 +73,11 @@ Timeline:
 
 ### Class Presentation Slides:  
 Project proposal : Project Requirements Part A
+
 [![N|Solid](https://i.ibb.co/j686cQY/googleslide.png)](https://drive.google.com/file/d/1pJJzOb0ccUWlm0MDcwRktVupkhMgKlMe/view?usp=sharing)
 
 Project proposal : Project Requirement Part C
+
 [![N|Solid](https://i.ibb.co/j686cQY/googleslide.png)](https://drive.google.com/file/d/1I9grItT5u3tvy1lVU38PCQDL98VdU1Ru/view?usp=sharing)
 ***  
 
@@ -220,4 +222,3 @@ How to run website:
 	$ export FLASK_ENV=development
 	$ flask run
 4)Copy URL(http://127.0.0.1:5000/) and paste into web browser 
-
