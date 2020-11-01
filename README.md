@@ -3,8 +3,7 @@
 ## Part A
 ---
 
-## Product: 
-Cuisine 'n COVID19
+## Product: Cuisine 'n COVID19
 Orange County Restaurant COVID19-compliant
 Restaurants map in Orange County in COVID19 situation
 
@@ -24,7 +23,8 @@ Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
 * County + State health officials 
 
 ### Research:
-<img src="http://www.irvinechambereconomicdevelopment.com/media/userfiles/subsite_64/images/SafeDineOCShieldOC%26OCBC.png" width=100 align=left>
+
+[![N|Solid](https://i.ibb.co/xF6pQzb/SafeDine.png)](https://www.ocbc.org/safedineoc-grantrecipient/)
 
 The County of Orange announced on August,6 2020 that the launch of a new SafeDineOC COVID-Safe Restaurant Campaign to incentivize Orange County restaurants to follow California Department of Public Health (CDPH) guidance to prevent the spread of COVID-19.
 
@@ -38,9 +38,8 @@ Restaurants that apply and are approved will be added to a list of COVID-safe ea
 
 Finally, the OCBC (Orange County Business Council) launched the list the forefront of safely serving Orange County at https://www.ocbc.org/safedineoc-grantrecipient/
 
-<img src="https://orangeeco.envisionconnect.com/clientimages/siteLogo.png" width=100 align=left>
-The Orange Health Care Agency has published the list of restaurants which has been joined the food inspection campaign. The list is contained upto 13,000 restaurants across the county.
-
+[![N|Solid](https://i.ibb.co/Qv60Qc3/Logo-2.png)](https://orangeeco.envisionconnect.com/#/pa1/search)
+The Orange Health Care Agency has published the list of restaurants which has been joined the food inspection campaign. The list is contained upto 13,000 restaurants across the county. Our group extract the list which includes restaurants'name and address.
 
 
 
@@ -65,10 +64,6 @@ The Orange Health Care Agency has published the list of restaurants which has be
 9. I want to be able to access my account and save my searches and preferences.
        
  
-### Tech Stack:
-To be advised
-
-
 ### Process:
 Timeline: 
 * Creating map of restaurants in given area(s)
@@ -77,11 +72,11 @@ Timeline:
 
 
 ### Class Presentation Slides:  
-Project proposal  
-<img src="https://i.ibb.co/pbHcdV0/PPT1-Project-V2-002.png" width=500>  
-<img src="https://i.ibb.co/sFpJSpM/PPT1-Project-V2-003.png" width=500>  
-<img src="https://i.ibb.co/kmSmrz4/PPT1-Project-V2-004.png" width=500>  
+Project proposal : Project Requirements Part A
+[![N|Solid](https://i.ibb.co/j686cQY/googleslide.png)](https://drive.google.com/file/d/1pJJzOb0ccUWlm0MDcwRktVupkhMgKlMe/view?usp=sharing)
 
+Project proposal : Project Requirement Part C
+[![N|Solid](https://i.ibb.co/j686cQY/googleslide.png)](https://drive.google.com/file/d/1I9grItT5u3tvy1lVU38PCQDL98VdU1Ru/view?usp=sharing)
 ***  
 
 ## Part B
@@ -135,7 +130,7 @@ a) Create landing page with GUI interface using Flask.
 b) Create interactive username and password text fields.  
          
 8. I would like to see a map of restaurants within Orange County.  
-*7 Days*  
+*6 Days*  
 **Tasks:**  
 a) Embed arcgis web-map of Orange County, display all restaurants as pins on map.  
 b) Create boundary for Orange county using arcpy code, drawing polygon on top of map.  
@@ -147,23 +142,28 @@ a) Create user profile page -- which shows user's preferences and searches.
 b) Create a user account list, data storage location which allows diners to find people they know.  
          
 
-
 ### Iterations for Milestone:
 **Milestone #1**
-
-**Iteration #1:**
-Be able to log into program, enter in username and password 
-5 days -- 10 hours total
-	 
-**Iteration #2:**
-Be able to view and interact with map that has partial functionality 
-8 days -- 16 hours total 
+- Be able to log into program, enter in username and password 
+- Be able to view and interact with map that has partial functionality 
 
 
 ### Velocity
 ### * Milestone 1
+There are 3 user stories in Milestone 1
+Days needed = 19 days | Assume that 4 working hours per day | 4 developers --> 1 hour per team member
 
-### *Option 1: Calculation base on number of hours
+| Task No. | Task | Days required | Hours required |
+| ------ | ------ | ------ | ------ |
+| 7a | Create landing page with GUI interface using Flask. | 3 | 12
+| 7b | Create interactive username and password text fields. | 4 | 16
+| 8a | Embed arcgis web-map of Orange County, display all restaurants as pins on map. | 3 | 12
+| 8b | Create boundary for Orange county using arcpy code, drawing polygon on top of map. | 3 | 12
+| 9a | Create user profile page -- which shows user's preferences and searches. | 3 | 12
+| 9b | Create a user account list, data storage location which allows diners to find people they know. | 3 | 12
+| | Total | 19 | 76 (19x4)
+
+It is complicated to calculate base on task completed, then we calculate base on sum of working hours used vs number of day left.
 We have calculated the velocity as below:
 * Sprint start date: 7-Oct
 * sprint end date: 2-Nov
@@ -180,38 +180,26 @@ We have calculated the velocity as below:
 We have created the burn down calculator to input the working hours for each developer.
 Please follow the link https://bit.ly/31q50o7
 (Only CGU member with this link can access, but only our team can edit)
-![image](https://i.ibb.co/KDqyMKz/Burndownchart.png)
 
-
-
-
-
-
-
-
-
+[![N|Solid](https://i.ibb.co/C2F1Zwr/GraphM1.png)](https://bit.ly/31q50o7)
 
 
 ### Stand Up Meeting:
-Meeting #1
-
-Meeting #2
-
-Meeting #3
-
-Meeting #4  
-* Update the progress and 
-
-
+* Meeting #1 Sep 13: Brainstorming, initiate the project, sharing background and identified user stories
+* Meeting #2 Sep 15: Finishing draft of pitch, user stories, working hour estimation, velocity and user stories
+* Meeting #3 Sep 23: Update progression and challenges
+* Meeting #4 Oct 06: Update milestone#1 for project requirement A
+* Meeting #5 Oct 13: Update progression and agree to use Flask
+* Meeting #6 Oct 16: Update progression and challenges, brainstorming to solve the problems
+* Meeting #7 Oct 21: Update progression and challenges, the list of restaurants in Orange county
+* Meeting #8 Oct 28: Update progression and challenges, pin map, username / password database
+* Meeting #9 Oct 31: Update progression and challenges, pytest and installing the packages
 
 ### Functional and Test Code:
-To be advised
-
-***
-
-
-## How to run the application
-
+* Test load URL index
+* Test load URL dashboard
+* Test login
+* Test signup
 
 ### Environment to run application
 * Python 3.7
@@ -232,16 +220,4 @@ How to run website:
 	$ export FLASK_ENV=development
 	$ flask run
 4)Copy URL(http://127.0.0.1:5000/) and paste into web browser 
-
-### Tests
-To be advised
-
-
-### Coverage
-To be advised
-
-
-### Install FAQ
-To be advised
-
 
