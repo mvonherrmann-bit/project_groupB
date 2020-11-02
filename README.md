@@ -152,7 +152,7 @@ b) Create a user account list, data storage location which allows diners to find
 
 
 ### Velocity
-### * Milestone 1
+* Milestone 1
 There are 3 user stories in Milestone 1
 Days needed = 19 days | Assume that 4 working hours per day | 4 developers --> 1 hour per team member
 
