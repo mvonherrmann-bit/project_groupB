@@ -1,5 +1,8 @@
 # IST-303-Team-B-Project
 ***
+## PROJECT REQUIREMENTS:
+In this project you are required to implement a GUI application in Python 3. The GUI app interfaces the user to an underlying data store. The project should be completed using the agile principles articulated in Pilone & Miles. Make sure to meet with your instructor as regularly as you require to ensure that the project is scoped appropriately – neither too narrowly nor too widely.
+
 ## Part A
 ---
 
@@ -25,7 +28,6 @@ Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
 ### Research:
 
 [![N|Solid](https://i.ibb.co/xF6pQzb/SafeDine.png)](https://www.ocbc.org/safedineoc-grantrecipient/)
-
 The County of Orange announced on August,6 2020 that the launch of a new SafeDineOC COVID-Safe Restaurant Campaign to incentivize Orange County restaurants to follow California Department of Public Health (CDPH) guidance to prevent the spread of COVID-19.
 
 Restaurant owners may apply for a $1,000 grant per Orange County restaurant location for taking steps to create a COVID-safe environment for their customers and employees. The grant will reimburse restaurants for purchases of personal protective equipment including face masks, cleaning products, employee training and costs for physical distancing of tables and chairs, as examples.
@@ -39,8 +41,8 @@ Restaurants that apply and are approved will be added to a list of COVID-safe ea
 Finally, the OCBC (Orange County Business Council) launched the list the forefront of safely serving Orange County at https://www.ocbc.org/safedineoc-grantrecipient/
 
 [![N|Solid](https://i.ibb.co/Qv60Qc3/Logo-2.png)](https://orangeeco.envisionconnect.com/#/pa1/search)
-
 The Orange Health Care Agency has published the list of restaurants which has been joined the food inspection campaign. The list is contained upto 13,000 restaurants across the county. Our group extract the list which includes restaurants'name and address.
+After finished extracting database manually, we examed and cleaned up data to select only restaurants.
 
 
 
@@ -77,9 +79,6 @@ Project proposal : Project Requirements Part A
 
 [![N|Solid](https://i.ibb.co/j686cQY/googleslide.png)](https://drive.google.com/file/d/1pJJzOb0ccUWlm0MDcwRktVupkhMgKlMe/view?usp=sharing)
 
-Project proposal : Project Requirement Part C
-
-[![N|Solid](https://i.ibb.co/j686cQY/googleslide.png)](https://drive.google.com/file/d/1I9grItT5u3tvy1lVU38PCQDL98VdU1Ru/view?usp=sharing)
 ***  
 
 ## Part B
@@ -150,9 +149,11 @@ b) Create a user account list, data storage location which allows diners to find
 - Be able to log into program, enter in username and password 
 - Be able to view and interact with map that has partial functionality 
 
-
+***
+## Part C
+---
 ### Velocity
-* Milestone 1
+### * Milestone 1
 There are 3 user stories in Milestone 1
 Days needed = 19 days | Assume that 4 working hours per day | 4 developers --> 1 hour per team member
 
@@ -189,14 +190,14 @@ Please follow the link https://bit.ly/31q50o7
 
 ### Stand Up Meeting:
 * Meeting #1 Sep 13: Brainstorming, initiate the project, sharing background and identified user stories
-* Meeting #2 Sep 15: Finishing draft of pitch, user stories, working hour estimation, velocity and user stories
-* Meeting #3 Sep 23: Update progression and challenges
-* Meeting #4 Oct 06: Update milestone#1 for project requirement A
+* Meeting #2 Sep 15: Finishing draft of pitch, user stories, working hour estimation, velocity and user stories, and preparation for project requirement A presentation
+* Meeting #3 Sep 23: Update progression and challenges 
+* Meeting #4 Oct 06: Update milestone#1 for project requirement B and preparing the presentation
 * Meeting #5 Oct 13: Update progression and agree to use Flask
 * Meeting #6 Oct 16: Update progression and challenges, brainstorming to solve the problems
 * Meeting #7 Oct 21: Update progression and challenges, the list of restaurants in Orange county
 * Meeting #8 Oct 28: Update progression and challenges, pin map, username / password database
-* Meeting #9 Oct 31: Update progression and challenges, pytest and installing the packages
+* Meeting #9 Oct 31: Update progression and challenges, pytest and installing the packages, and prepating the project requirement C presentation
 
 ### Functional and Test Code:
 * Test load URL index
@@ -204,13 +205,17 @@ Please follow the link https://bit.ly/31q50o7
 * Test login
 * Test signup
 
-### Environment to run application
-* Python 3.7
-* Pip
-*
-*
-To be advised
+The proposed testing code
+[![N|Solid](https://i.ibb.co/X2LSbSR/Screen-Shot-2020-11-02-at-2-45-15-PM.png)]
 
+### Environment to run application
+* Python 3.8
+* Pip Flask
+* Pip Flask-Bootstrap
+* Pip Flask-SQLAlchemy
+* Pip Flask-Login
+* Pip simplejson
+* SQLite
 
 ### Run Application Command
 How to run website:
@@ -223,3 +228,12 @@ How to run website:
 	$ export FLASK_ENV=development
 	$ flask run
 4)Copy URL(http://127.0.0.1:5000/) and paste into web browser 
+
+Project presentation : Project Requirement Part C
+[![N|Solid](https://i.ibb.co/j686cQY/googleslide.png)](https://drive.google.com/file/d/1I9grItT5u3tvy1lVU38PCQDL98VdU1Ru/view?usp=sharing)
+
+### The lesson learned from M1
+* Since we have limited time to deliver M1, then we need to prioritize the user stories, break down the tasks and sub-tasks and distribute to team members. Then, we can focus on each task. We have tried to set up a standup meeting to brainstorm, update progression, and solve the problems.
+* Calculating velocity and burn down chart: Since we have been fixed at 4 headcounts, we have adapted the sum of hours left VS sum of hours needed to calculate velocity and create burn down chart instead of the number of tasks left.
+* Testing with pytest will help us to gain confidence in our software.
+* Working in difference environments or systems settings, may makes some challenges such as running application, package installation.
