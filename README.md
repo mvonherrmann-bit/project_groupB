@@ -25,6 +25,18 @@ Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
 * People looking for employment
 * County + State health officials 
 
+### User Stories (estimate of completion times) and development priority:
+**As a user:**
+ 1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.
+2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?
+3. I want to see what others have said about certain restaurants.
+4. I would like to see information on how restaurants have been impacted by COVID (How long have they been closed for? Are they currently open?)
+5. How much seating is available at a given restaurant?
+6. I would like to have the option to see restaurants that match my given criteria within a list.
+7. I would like to see a login page. 
+8. I would like to see a map of restaurants within Orange County.
+9. I want to be able to access my account and save my searches and preferences.
+
 ### Research:
 
 [![N|Solid](https://i.ibb.co/xF6pQzb/SafeDine.png)](https://www.ocbc.org/safedineoc-grantrecipient/)
@@ -46,19 +58,6 @@ Finally, the OCBC (Orange County Business Council) launched the list the forefro
 The Orange Health Care Agency has published the list of restaurants which has been joined the food inspection campaign. The list is contained upto 13,000 restaurants across the county. Our group extract the list which includes restaurants'name and address.
 After finished extracting database manually, we examed and cleaned up data to select only restaurants.
 
-
-
-### User Stories (estimate of completion times) and development priority:
-**As a user:**
- 1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.
-2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?
-3. I want to see what others have said about certain restaurants.
-4. I would like to see information on how restaurants have been impacted by COVID (How long have they been closed for? Are they currently open?)
-5. How much seating is available at a given restaurant?
-6. I would like to have the option to see restaurants that match my given criteria within a list.
-7. I would like to see a login page. 
-8. I would like to see a map of restaurants within Orange County.
-9. I want to be able to access my account and save my searches and preferences.
  
 ### Process:
 Timeline: 
