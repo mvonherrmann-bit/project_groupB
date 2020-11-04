@@ -149,18 +149,18 @@ There are 3 user stories and 6 Tasks in Milestone 1
 
 | Task No. | Task | Days required | Hours required |
 | ------ | ------ | ------ | ------ |
-| U7 | I would like to see a login page. | 7 | 
+| **U7** | **I would like to see a login page.** | **4**| **
 | 7a | Create landing page with GUI interface using Flask. | 2 | 8
 | 7b | Create interactive username and password text fields. | 2 | 8
-| U8 | I would like to see a map of restaurants within Orange County. | 6 |
+| **U8** | **I would like to see a map of restaurants within Orange County.** | **6** | **
 | 8a | Embed arcgis web-map of Orange County, display all restaurants as pins on map. | 3 | 12
 | 8b | Create boundary for Orange county using arcpy code, drawing polygon on top of map. | 3 | 12
-| U9 | I want to be able to access my account and save my searches and preferences. | 9
+| **U9** | **I want to be able to access my account and save my searches and preferences.** | **9** | **
 | 9a | Create user profile page -- which shows user's preferences and searches. | 5 | 20
 | 9b | Create a user account list, data storage location which allows diners to find people they know. | 4 | 16
 | | Total | 19 | 76 (19x4)
 
-Days needed = 19 days | Assume that 4 working hours per day | 4 developers --> 1 hour per team member
+Days needed = 19 days | Assume that 4 working hours per day | 4 developers --> 1 hour per team member per day
 
 It is complicated to calculate base on task completed, then we calculate base on sum of working hours used vs number of day left.
 We have calculated the velocity as below:
