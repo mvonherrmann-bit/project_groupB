@@ -49,23 +49,14 @@ After finished extracting database manually, we examed and cleaned up data to se
 ### User Stories (estimate of completion times) and development priority:
 **As a user:**
  1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.
-         
 2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?
-	 
 3. I want to see what others have said about certain restaurants.
-         
 4. I would like to see information on how restaurants have been impacted by COVID (How long have they been closed for? Are they currently open?)
-         
 5. How much seating is available at a given restaurant?
-         
 6. I would like to have the option to see restaurants that match my given criteria within a list.
-         
 7. I would like to see a login page. 
-         
 8. I would like to see a map of restaurants within Orange County.
-         
 9. I want to be able to access my account and save my searches and preferences.
-       
  
 ### Process:
 Timeline: 
@@ -155,6 +146,10 @@ b) Create a user account list, data storage location which allows diners to find
 ### Velocity
 ### * Milestone 1
 There are 3 user stories in Milestone 1
+7. I would like to see a login page. 
+8. I would like to see a map of restaurants within Orange County.
+9. I want to be able to access my account and save my searches and preferences.
+
 Days needed = 19 days | Assume that 4 working hours per day | 4 developers --> 1 hour per team member
 
 | Task No. | Task | Days required | Hours required |
@@ -169,6 +164,20 @@ Days needed = 19 days | Assume that 4 working hours per day | 4 developers --> 1
 
 It is complicated to calculate base on task completed, then we calculate base on sum of working hours used vs number of day left.
 We have calculated the velocity as below:
+
+| Factors | Data | How to calculate |
+| ------ | ------ | ------ |
+| Sprint start date | 7-Oct | |
+| Sprint end date | 2-Nov |  |
+| Working days | 19 |  |
+| Team size | 4 |  |
+| Work hours per day | 1 |  |
+| Total available hours | 76 | working days * team size * work hours per day |
+| Average daily available hours | 4 | total available hours / working days |
+| Average productivity | 80 |  |
+| Productivity hours | 60.8 | total available hours * average productivity / 100 |
+| Average daily productive hours | 3.2 | productivity hours / working days |
+
 * Sprint start date: 7-Oct
 * sprint end date: 2-Nov
 * working days:	19
@@ -198,6 +207,7 @@ Please follow the link https://bit.ly/31q50o7
 * Meeting #7 Oct 21: Update progression and challenges, the list of restaurants in Orange county
 * Meeting #8 Oct 28: Update progression and challenges, pin map, username / password database
 * Meeting #9 Oct 31: Update progression and challenges, pytest and installing the packages, and prepating the project requirement C presentation
+* Meeting #10 NOv 04: Problem solving and preparation for M2
 
 ### Functional and Test Code:
 * Test load URL index
@@ -206,7 +216,6 @@ Please follow the link https://bit.ly/31q50o7
 * Test signup
 
 The proposed testing code
-
 [![N|Solid](https://i.ibb.co/X2LSbSR/Screen-Shot-2020-11-02-at-2-45-15-PM.png)]
 
 ### Environment to run application
