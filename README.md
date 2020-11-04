@@ -25,7 +25,7 @@ Dominic Lee, Vanessa Reyes, Thawachsorn Sookthai, Miles von Herrmann
 * People looking for employment
 * County + State health officials 
 
-### User Stories (estimate of completion times) and development priority:
+### User Stories:
 **As a user:**
  1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.
 2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?
@@ -76,7 +76,7 @@ Project proposal : Project Requirements Part A
 ## Part B
 ---
 
-### User Stories decomposition into tasks with team member allocated:
+### User Stories (estimate of completion times) and decomposition into tasks:
 
 1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.  
 *10 Days*  
