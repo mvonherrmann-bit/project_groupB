@@ -146,9 +146,9 @@ b) Create a user account list, data storage location which allows diners to find
 ### Velocity
 ### * Milestone 1
 There are 3 user stories in Milestone 1
-7. I would like to see a login page. 
-8. I would like to see a map of restaurants within Orange County.
-9. I want to be able to access my account and save my searches and preferences.
+- 7. I would like to see a login page. 
+- 8. I would like to see a map of restaurants within Orange County.
+- 9. I want to be able to access my account and save my searches and preferences.
 
 Days needed = 19 days | Assume that 4 working hours per day | 4 developers --> 1 hour per team member
 
