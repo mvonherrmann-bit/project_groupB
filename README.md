@@ -174,25 +174,17 @@ We have calculated the velocity as below:
 | Work hours per day | 1 |  |
 | Total available hours | 76 | working days * team size * work hours per day |
 | Average daily available hours | 4 | total available hours / working days |
-| Average productivity | 80 |  |
-| Productivity hours | 60.8 | total available hours * average productivity / 100 |
+| Average productivity | 80 % |  |
+| Productivity hours | 60.8 | total available hours * average productivity |
 | Average daily productive hours | 3.2 | productivity hours / working days |
 
-* Sprint start date: 7-Oct
-* sprint end date: 2-Nov
-* working days:	19
-* team size: 4
-* work hours per day: 1
-* total available hours: 76
-* average daily available hours: 4
-* average productivity:	80
-* productivity hours: 60.8
-* average daily productive hours: 3.2
 
 ### Burn Down Chart:
 We have created the burn down calculator to input the working hours for each developer.
 Please follow the link https://bit.ly/31q50o7
 (Only CGU member with this link can access, but only our team can edit)
+![N|Solid](https://i.ibb.co/mXpvY0p/Screen-Shot-2020-11-04-at-8-28-24-AM.png)
+
 
 [![N|Solid](https://i.ibb.co/C2F1Zwr/GraphM1.png)](https://bit.ly/31q50o7)
 
@@ -216,7 +208,7 @@ Please follow the link https://bit.ly/31q50o7
 * Test signup
 
 The proposed testing code
-[![N|Solid](https://i.ibb.co/X2LSbSR/Screen-Shot-2020-11-02-at-2-45-15-PM.png)]
+![N|Solid](https://i.ibb.co/X2LSbSR/Screen-Shot-2020-11-02-at-2-45-15-PM.png)
 
 ### Environment to run application
 * Python 3.8
