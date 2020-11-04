@@ -191,16 +191,18 @@ Please follow the link https://bit.ly/31q50o7
 
 
 ### Stand Up Meeting:
-* Meeting #1 Sep 13: Brainstorming, initiate the project, sharing background and identified user stories
-* Meeting #2 Sep 15: Finishing draft of pitch, user stories, working hour estimation, velocity and user stories, and preparation for project requirement A presentation
-* Meeting #3 Sep 23: Update progression and challenges 
-* Meeting #4 Oct 06: Update milestone#1 for project requirement B and preparing the presentation
-* Meeting #5 Oct 13: Update progression and agree to use Flask
-* Meeting #6 Oct 16: Update progression and challenges, brainstorming to solve the problems
-* Meeting #7 Oct 21: Update progression and challenges, the list of restaurants in Orange county
-* Meeting #8 Oct 28: Update progression and challenges, pin map, username / password database
-* Meeting #9 Oct 31: Update progression and challenges, pytest and installing the packages, and prepating the project requirement C presentation
-* Meeting #10 NOv 04: Problem solving and preparation for M2
+| Meeting No | Date | Detail |
+| ------ | ------ | ------ |
+| 1 | Sep 13 | Brainstorming, initiate the project, sharing background and identified user stories |
+| 2 | Sep 15 |Finishing draft of pitch, user stories, working hour estimation, velocity and user stories, and preparation for project requirement A presentation |
+| 3 | Sep 23 | Update progression and challenges |
+| 4 | Oct 06 | Update milestone#1 for project requirement B and preparing the presentation |
+| 5 | Oct 13 | Update progression and agree to use Flask |
+| 6 | Oct 16 | Update progression and challenges, brainstorming to solve the problems |
+| 7 | Oct 21 | Update progression and challenges, the list of restaurants in Orange county |
+| 8 | Oct 28 | Update progression and challenges, pin map, username / password database |
+| 9 | Oct 31 | Update progression and challenges, pytest and installing the packages, and prepating the project requirement C presentation |
+| 10 | Nov 04 | Problem solving and preparation for M2|
 
 ### Functional and Test Code:
 * Test load URL index
@@ -231,9 +233,6 @@ How to run website:
 	$ export FLASK_ENV=development
 	$ flask run
 4)Copy URL(http://127.0.0.1:5000/) and paste into web browser 
-
-Project presentation : Project Requirement Part C
-[![N|Solid](https://i.ibb.co/j686cQY/googleslide.png)](https://drive.google.com/file/d/1I9grItT5u3tvy1lVU38PCQDL98VdU1Ru/view?usp=sharing)
 
 ### The lesson learned from M1
 * Since we have limited time to deliver M1, then we need to prioritize the user stories, break down the tasks and sub-tasks and distribute to team members. Then, we can focus on each task. We have tried to set up a standup meeting to brainstorm, update progression, and solve the problems.
