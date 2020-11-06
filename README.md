@@ -185,10 +185,9 @@ We have created the burn down calculator to input the working hours for each dev
 Please follow the link https://bit.ly/31q50o7
 (Only CGU member with this link can access, but only our team can edit)
 
-![N|Solid](https://i.ibb.co/BCcyRhM/GraphJ.png)
+![N|Solid](https://i.ibb.co/mXpvY0p/Screen-Shot-2020-11-04-at-8-28-24-AM.png)
 
-
-[![N|Solid](https://i.ibb.co/C2F1Zwr/GraphM1.png)](https://bit.ly/31q50o7)
+[![N|Solid](https://i.ibb.co/BCcyRhM/GraphJ.png)](https://bit.ly/31q50o7)
 
 
 ### Stand Up Meeting:
