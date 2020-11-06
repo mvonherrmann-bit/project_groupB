@@ -78,32 +78,32 @@ Project proposal : Project Requirements Part A
 
 ### User Stories (estimate of completion times) and decomposition into tasks:
 
-1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.  
+1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.  Dominic, Miles 
 *10 Days*  
 **Tasks:**  
 a) Extract location information and names of restaurants from Twitter API.  
 b) Create queries for the different keywords(seating, take out, ...).  
 c) Create interface for user/diner to search for services based on keywords(search bar,sub pages).
          
-2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?  
+2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?  Dominic 
 *3 Days*  
 **Tasks:**  
 a) Create additional queries, with keywords related to a restaurant being COVID compliant(from Twitter feed).  
 b) Design functionality for user to be able to set search radius on the map.  
  
-3. I want to see what others have said about certain restaurants.  
+3. I want to see what others have said about certain restaurants.  Miles 
 *3 Days*  
 **Tasks:**  
 a) Extract data from Yelp API, to get information/restaurant reviews from the other diners regarding the restaurants in diners' queries.  
 b) Create window within program specificially for Yelp, to store reviews/information about restaurants as they become available.  
          
-4. I would like to see information on how restaurants have been impacted by COVID (How long have they been closed for? Are they currently open?).  
+4. I would like to see information on how restaurants have been impacted by COVID (How long have they been closed for? Are they currently open?).  Vanessa, Tony 
 *8 Days*  
 **Tasks:**  
 a) Pull data from Twitter API, posts from restaurants that talk about their open/closed status during pandemic.  
 b) Display relevant information(in clear and consistent manner for all restaurants) found in tweets in pop-up dialogue window when user selects a certain restaurant on the map.  
          
-5. How much seating is available at a given restaurant?  
+5. How much seating is available at a given restaurant?  Vanessa 
 *2 Days*  
 **Tasks:**  
 a) Pull information about seating/seating capacity percentage from restaurants' twitter pages.  
