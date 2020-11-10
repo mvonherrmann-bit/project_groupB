@@ -2,11 +2,12 @@
 ***
 ## PROJECT REQUIREMENTS:
 In this project you are required to implement a GUI application in Python 3. The GUI app interfaces the user to an underlying data store. The project should be completed using the agile principles articulated in Pilone & Miles. Make sure to meet with your instructor as regularly as you require to ensure that the project is scoped appropriately – neither too narrowly nor too widely.
-
-## Part A
+***
+## Milestone 1
+### Part A
 ---
 
-## Product: Cuisine 'n COVID19
+### Product: Cuisine 'n COVID19
 Orange County Restaurant COVID19-compliant
 Restaurants map in Orange County in COVID19 situation
 
@@ -78,32 +79,32 @@ Project proposal : Project Requirements Part A
 
 ### User Stories (estimate of completion times) and decomposition into tasks:
 
-1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.  Dominic, Miles 
+1. I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County.
 *10 Days*  
 **Tasks:**  
 a) Extract location information and names of restaurants from Twitter API.  
 b) Create queries for the different keywords(seating, take out, ...).  
 c) Create interface for user/diner to search for services based on keywords(search bar,sub pages).
          
-2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?  Dominic 
+2. As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?
 *3 Days*  
 **Tasks:**  
 a) Create additional queries, with keywords related to a restaurant being COVID compliant(from Twitter feed).  
 b) Design functionality for user to be able to set search radius on the map.  
  
-3. I want to see what others have said about certain restaurants.  Miles 
+3. I want to see what others have said about certain restaurants.
 *3 Days*  
 **Tasks:**  
 a) Extract data from Yelp API, to get information/restaurant reviews from the other diners regarding the restaurants in diners' queries.  
 b) Create window within program specificially for Yelp, to store reviews/information about restaurants as they become available.  
          
-4. I would like to see information on how restaurants have been impacted by COVID (How long have they been closed for? Are they currently open?).  Vanessa, Tony 
+4. I would like to see information on how restaurants have been impacted by COVID (How long have they been closed for? Are they currently open?).
 *8 Days*  
 **Tasks:**  
 a) Pull data from Twitter API, posts from restaurants that talk about their open/closed status during pandemic.  
 b) Display relevant information(in clear and consistent manner for all restaurants) found in tweets in pop-up dialogue window when user selects a certain restaurant on the map.  
          
-5. How much seating is available at a given restaurant?  Vanessa 
+5. How much seating is available at a given restaurant?
 *2 Days*  
 **Tasks:**  
 a) Pull information about seating/seating capacity percentage from restaurants' twitter pages.  
@@ -240,3 +241,58 @@ How to run website:
 * Calculating velocity and burn down chart: Since we have been fixed at 4 headcounts, we have adapted the sum of hours left VS sum of hours needed to calculate velocity and create burn down chart instead of the number of tasks left.
 * Testing with pytest will help us to gain confidence in our software.
 * Working in difference environments or systems settings, may makes some challenges such as running application, package installation.
+
+***
+## Milestone 2
+
+### Velocity
+### * Milestone 2
+There are 6 user stories and 13 Tasks in Milestone 2
+
+| Task No. | Task | Days required | Hours required |
+| ------ | ------ | ------ | ------ |
+| **U1** | **I want to look for restaurants within Orange County. What kind of services do they provide (outdoor/indoor seating, take out, delivery, curbside, social distancing, and disinfecting and sanitizing). I want to find a restaurant that matches my criteria within Orange County** | **10**| M D
+| 1a | Extract location information and names of restaurants from Twitter API. | 4 | 16 |
+| 1b | Create queries for the different keywords(seating, take out, …). | 3 | 12 |
+| 1c | Create interface for user/diner to search for services based on keywords(search bar,sub pages). | 3 | 12 |
+| **U2** | **As a diner, I want to find restaurants near me that are COVID compliant. How are restaurants maintaining a safe and COVID compliant environment?** | **3** | D
+| 2a | Create additional queries, with keywords related to a restaurant being COVID compliant(from Twitter feed). | 2 | 8 |
+| 2b | Design functionality for user to be able to set search radius on the map. | 1 | 4 |
+| **U3** | **I want to see what others have said about certain restaurants.** | **3** | M
+| 3a | Extract data from Yelp API, to get information/restaurant reviews from the other diners regarding the restaurants in diners’ queries. | 2 | 8 |
+| 3b | Create window within program specificially for Yelp, to store reviews/information about restaurants as they become available. | 1 | 4 |
+| **U4** | **I would like to see information on how restaurants have been impacted by COVID (How long have they been closed for? Are they currently open?)** | **8** | V T
+| 4a | Pull data from Twitter API, posts from restaurants that talk about their open/closed status during pandemic. | 4 | 8 |
+| 4b | Display relevant information(in clear and consistent manner for all restaurants) found in tweets in pop-up dialogue window when user selects a certain restaurant on the map. | 4 | 8 |
+| **U5** | **How much seating is available at a given restaurant?** | **2** | V
+| 5a | Pull information about seating/seating capacity percentage from restaurants’ twitter pages. | 4 | 8 |
+| 5b | Allow for user to query just seating information when looking up a specific restaurant. | 4 | 8 |
+| **U6** | **I would like to have the option to see restaurants that match my given criteria within a list.** | **2** | M D V T
+| 6a | Create a separate results box within the program – show restaurants that match criteria user has given. | 1 | 4 |
+| 6b | Sort results by which criteria item the user entered in first. | 1 | 4 |
+| | Total | 28 | 112 (28x4)|
+
+Days needed = 28 days | Assume that 4 working hours per day | 4 developers --> 1.5 hour per team member per day
+Velocity = Average Productivity = 80%
+
+| Factors | Data | How to calculate |
+| ------ | ------ | ------ |
+| Sprint start date | 4-Nov | |
+| Sprint end date | 5-Dec |  |
+| Working days | 23 |  |
+| Team size | 4 |  |
+| Work hours per day | 1.5 |  |
+| Total available hours | 138 | working days * team size * work hours per day |
+| Average daily available hours | 6 | total available hours / working days |
+| Average productivity | 80 % |  |
+| Productivity hours | 110.4 | total available hours * average productivity |
+| Average daily productive hours | 4.8 | productivity hours / working days |
+
+
+### Stand Up Meeting:
+| Meeting No | Date | Detail |
+| ------ | ------ | ------ |
+| 1 | Nov 5 | Brainstorming, Allocated the user stories to specific developers |
+| 2 | Nov 10 |  |
+
+
