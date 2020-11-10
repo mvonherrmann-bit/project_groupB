@@ -246,7 +246,7 @@ How to run website:
 ## Milestone 2
 
 ### Velocity
-### * Milestone 2
+
 There are 6 user stories and 13 Tasks in Milestone 2
 
 | Task No. | Task | Days required | Hours required |
