@@ -1,4 +1,4 @@
-# IST-303-Team-B-Project
+# IST-303-Team-B-Project: Cuisine 'n COVID19
 ***
 ## PROJECT REQUIREMENTS:
 In this project you are required to implement a GUI application in Python 3. The GUI app interfaces the user to an underlying data store. The project should be completed using the agile principles articulated in Pilone & Miles. Make sure to meet with your instructor as regularly as you require to ensure that the project is scoped appropriately – neither too narrowly nor too widely.
