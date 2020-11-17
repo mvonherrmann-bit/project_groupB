@@ -293,6 +293,7 @@ Velocity = Average Productivity = 80%
 | Meeting No | Date | Detail |
 | ------ | ------ | ------ |
 | 1 | Nov 5 | Brainstorming, Allocated the user stories to specific developers |
-| 2 | Nov 10 |  |
+| 2 | Nov 10 | Brainstorming, sharing the progression and figure out the errors |
+| 3 | Nov 17 | Update the progression after meeting with professors |
 
 
